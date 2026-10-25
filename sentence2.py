@@ -1,0 +1,7 @@
+sentence=input("Enter the sentence: "  )
+print(sentence)
+print(sentence.upper())
+print(sentence.lower())
+print(sentence[0:5])
+print(sentence[-5:])
+print(sentence[::-1])
